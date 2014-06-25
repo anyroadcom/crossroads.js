@@ -1,0 +1,19 @@
+{
+  "name" : "crossroads",
+  "description" : "Flexible router which can be used in multiple environments",
+  "repo": "anyroadcom/crossroads.js",
+  "version": "0.12.0",
+  "keywords": [
+    "crossroads", "component"
+  ],
+  "dependencies": {
+    "anyroadcom/js-signals": "*"
+  },
+  "main": "dist/crossroads.js",
+  "scripts": [
+    "dist/crossroads.js"
+  ]
+}
+
+
+
